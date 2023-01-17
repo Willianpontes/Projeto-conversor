@@ -3,4 +3,4 @@
 <br>
 <p> Projeto de conversor de moedas de real em: Dólar, Euro e Bitcoin. <p>
 <br>
-<img src = "https://github.com/Willianpontes/Projeto-conversor/blob/main/assets/readme.dolar.png?raw=true">
+<img  src = "https://github.com/Willianpontes/Projeto-conversor/blob/main/assets/imagem%20readme.png?raw=true">
